@@ -19,3 +19,4 @@ elif imc > 35 and imc < 40:
     print("Situação: obesidade grau II")
 else:
     print("Situação: obesidade grau III")
+    
