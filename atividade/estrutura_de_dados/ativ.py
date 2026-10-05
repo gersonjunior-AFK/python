@@ -1,3 +1,8 @@
+# ==========================================
+# Exercício: Estrutura de dados
+# Arquivo: ativ.py
+# Objetivo: demonstrar união e interseção entre conjuntos.
+# ==========================================
 nomes1 = {"lolo", "mamai", "rita", "pedro", "ana", "jose", "carlos", "paula"}
 nomes2 = {"artur", "joao", "maria", "pietro", "ama", "jose", "juju", "ffaula"}
 uniao = nomes1.union(nomes2)

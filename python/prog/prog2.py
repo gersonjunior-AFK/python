@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Programação em Python
+# Arquivo: prog2.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 preco = float(input("Digite o preço: "))
 print("digite o valor:",)
 input()

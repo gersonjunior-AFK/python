@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de decisão
+# Arquivo: ativ4.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 n1 = int(input("Digite seu salario: "))
 gratificacao = n1 * 0.1 if n1 < 3000 else n1 * 0.07
 match n1:

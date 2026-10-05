@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Repetição em Python
+# Arquivo: repericao3.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 mat =[
     ["ana","maria","joana"],
     ["carla","julia","marcela"],

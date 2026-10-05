@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de repetição
+# Arquivo: ativ3.py
+# Objetivo: gerar uma progressão aritmética com 20 termos.
+# ==========================================
+
 primeiro = 8
 razao = 7
 

@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de decisão
+# Arquivo: ativ6.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 b = input("Digite seu nome: ")
 s = float(input("Digite seu salário: "))
 a = int(input("Digite o tempo de serviço: "))

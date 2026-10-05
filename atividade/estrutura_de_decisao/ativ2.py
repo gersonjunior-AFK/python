@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de decisão
+# Arquivo: ativ2.py
+# Objetivo: comparar dois números e tratar igualdade.
+# ==========================================
+
 n1 = int(input("Digite o primeiro numero: "))
 n2 = int(input("Digite o segundo numero: "))
 

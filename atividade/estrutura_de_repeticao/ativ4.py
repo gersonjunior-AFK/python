@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de repetição
+# Arquivo: ativ4.py
+# Objetivo: validar senha com até três tentativas.
+# ==========================================
+
 senha_correta = "admin123"
 
 for tentativa in range(1, 4):

@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de decisão
+# Arquivo: ativ7.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 salario = float(input("Digite seu salario: "))
 cargo = input("Digite seu cargo: ")
 if cargo == 1:

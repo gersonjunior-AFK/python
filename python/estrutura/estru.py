@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura em Python
+# Arquivo: estru.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 nomes = []
 print("tipo de estrutura de nome: ", type(nomes))
 numeros = [1, 2, 3,]

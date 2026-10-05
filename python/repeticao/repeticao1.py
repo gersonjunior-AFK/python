@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Repetição em Python
+# Arquivo: repeticao1.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 n = 0
 while n <10:
     n += 1

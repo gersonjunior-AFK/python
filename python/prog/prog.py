@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Programação em Python
+# Arquivo: prog.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 nome = "ana maria"
 idade = 25
 print(type(nome))

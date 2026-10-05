@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de repetição
+# Arquivo: ativ6.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 pares = 0
 impares = 0
 

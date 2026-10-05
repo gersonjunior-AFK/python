@@ -1,3 +1,8 @@
+# ==========================================
+# Exercício: Estrutura de decisão
+# Arquivo: ativ3.py
+# Objetivo: aplicar regras de imposto de renda condicional.
+# ==========================================
 s = float(input("digite seu salario: "))
 match s:
     case salario if salario < 2500:

@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de repetição
+# Arquivo: ativ7.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 import random
 
 numero_secreto = random.randint(1, 100)

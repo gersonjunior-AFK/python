@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de decisão
+# Arquivo: ativ5.py
+# Objetivo: calcular o IMC e classificar a situação do usuário.
+# ==========================================
+
 peso = float(input("Digite o seu peso em kg: "))
 altura = float(input("Digite a sua altura em metros: "))
 

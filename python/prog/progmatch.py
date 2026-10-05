@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Programação em Python
+# Arquivo: progmatch.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 m = int(input("Digite o mes 1 a 12: "))
 if m == 1:
     print("Janeiro")

@@ -1,3 +1,9 @@
+# ==========================================
+# Exercício: Estrutura de repetição
+# Arquivo: ativ5.py
+# Objetivo: explicar a lógica do programa.
+# ==========================================
+
 maior = None
 menor = None
 
